@@ -1,0 +1,10 @@
+E:\RiderProjects\OOP-repository\CursWork7\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\RiderProjects\OOP-repository\CursWork7\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\RiderProjects\OOP-repository\CursWork7\BLL\bin\Debug\BLL.exe
+E:\RiderProjects\OOP-repository\CursWork7\BLL\bin\Debug\BLL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\BLL\obj\Debug\BLL.exe
+E:\RiderProjects\OOP-repository\CursWork7\BLL\obj\Debug\BLL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\BLL\bin\Debug\DAL.exe
+E:\RiderProjects\OOP-repository\CursWork7\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\RiderProjects\OOP-repository\CursWork7\BLL\bin\Debug\DAL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\BLL\bin\Debug\Newtonsoft.Json.xml

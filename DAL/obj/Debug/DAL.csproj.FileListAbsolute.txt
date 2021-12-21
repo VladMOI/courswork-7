@@ -1,0 +1,8 @@
+E:\RiderProjects\OOP-repository\CursWork7\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\RiderProjects\OOP-repository\CursWork7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\RiderProjects\OOP-repository\CursWork7\DAL\bin\Debug\DAL.exe
+E:\RiderProjects\OOP-repository\CursWork7\DAL\bin\Debug\DAL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\DAL\obj\Debug\DAL.exe
+E:\RiderProjects\OOP-repository\CursWork7\DAL\obj\Debug\DAL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\RiderProjects\OOP-repository\CursWork7\DAL\bin\Debug\Newtonsoft.Json.xml

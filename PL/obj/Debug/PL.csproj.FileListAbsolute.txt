@@ -1,0 +1,13 @@
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\PL.exe
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\PL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+E:\RiderProjects\OOP-repository\CursWork7\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+E:\RiderProjects\OOP-repository\CursWork7\PL\obj\Debug\PL.exe
+E:\RiderProjects\OOP-repository\CursWork7\PL\obj\Debug\PL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\DAL.exe
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\DAL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\BLL.exe
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\Newtonsoft.Json.dll
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\BLL.pdb
+E:\RiderProjects\OOP-repository\CursWork7\PL\bin\Debug\Newtonsoft.Json.xml
+E:\RiderProjects\OOP-repository\CursWork7\PL\obj\Debug\PL.csproj.CopyComplete
